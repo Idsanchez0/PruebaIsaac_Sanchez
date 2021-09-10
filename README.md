@@ -1,4 +1,4 @@
-# PruebaSenec
+# PruebaIsaacSanchez
  Prueba de programación
 
 #Antes de proceder a ejecutar los comandos de instalación por favor tomar en cuenta lo siguiente:
